@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env*
+MELD.Raw.tar,MELD.Raw.tar.gz
+MELD.Raw.tar.gz
+MELD.Raw.tar.gz.part
+MELD.Raw.tar.gz.part.1
+MELD.Raw.tar.gz.part.2
+MELD.Raw.tar.gz.part.3
+MELD.Raw.tar.gz.part.4
+MELD.Raw.tar.gz.part.5
+MELD.Raw.tar.gz.part.6
+MELD.Raw.tar.gz.part.7
+MELD.Raw.tar.gz.part.8
+MELD.Raw.tar.gz.part.9
